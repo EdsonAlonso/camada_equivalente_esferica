@@ -1,0 +1,1 @@
+# camada_equivalente_esferica
